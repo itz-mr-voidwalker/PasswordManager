@@ -1,0 +1,7 @@
+cryptography
+python-dotenv
+keyring
+tk
+time
+random
+re
