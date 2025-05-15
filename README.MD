@@ -34,24 +34,23 @@ A secure, modular, and user-friendly **Password Manager** built in Python using 
 ## 📁 Project Structure
 
 ```
-        PractisePlayground/
-    ├── main.py # Main launcher (entry point)
-    ├── .env # Global environment config
-    ├── requirements.txt # Python package list
-    ├── README.md # Project documentation
-    │
-    ├── app/
-    │ ├── app.py # GUI logic (Password Manager)
-    │ ├── .env # App-level environment variables
-    │ └── data/
-    │ └── records.dat # Encrypted password store
-    │
-    └── auth/
-    ├── SecureLayer.py # Fernet-based encryption handler
-    ├── login.py # Login screen logic
-    ├── onboarding.py # First-time setup UI
-    └── auth_logging.py # Logging setup
-
+PractisePlayground/
+├── main.py # Main launcher (entry point)
+├── .env # Global environment config
+├── requirements.txt # Python package list
+├── README.md # Project documentation
+│
+├── app/
+│ ├── app.py # GUI logic (Password Manager)
+│ ├── .env # App-level environment variables
+│ └── data/
+│ └── records.dat # Encrypted password store
+│
+└── auth/
+├── SecureLayer.py # Fernet-based encryption handler
+├── login.py # Login screen logic
+├── onboarding.py # First-time setup UI
+└── auth_logging.py # Logging setup
 
 ## 👑 Credits
     Made with Passion by Sai Vignesh
