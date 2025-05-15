@@ -51,7 +51,7 @@ PractisePlayground/
 ├── login.py # Login screen logic
 ├── onboarding.py # First-time setup UI
 └── auth_logging.py # Logging setup
-
+```
 ## 👑 Credits
     Made with Passion by Sai Vignesh
 
