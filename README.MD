@@ -15,7 +15,7 @@ A secure, modular, and user-friendly **Password Manager** built in Python using 
 
 ## 🛠 Installation
     git clone <this-repo>
-    cd PractisePlayground
+    cd PasswordManager
     pip install -r requirements.txt
 
 ## 📦 Running the App
